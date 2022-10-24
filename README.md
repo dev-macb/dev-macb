@@ -77,7 +77,7 @@ ___
 
 ___
 <!-- Animação da Cobra -->
-![Animação da Cobra](https://github.com/dev-macb/dev-macb/blob/output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://github.com/dev-macb/dev-macb/blob/output/github-contribution-grid-snake.svg)
 
 ___
 <!-- Agradecimentos -->
