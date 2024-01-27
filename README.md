@@ -15,12 +15,12 @@ import SoftwareDeveloper from 'dev-macb';
 
 class Bio extends SoftwareDeveloper {
     name     = 'Miguel Alves';
-    title    = 'Desenvolvedor Full Stack Jr';
+    title    = 'Desenvolvedor FullStack jr.';
     location = 'Goiânia, Goiás, Brasil';
 }
 
 class Skills extends SoftwareDeveloper {
-    languages  = ['C', 'C++' 'Python', 'JavaScript'];
+    languages  = ['C', 'C++' 'Python', 'JavaScript/TypeScript'];
     databases  = ['PostgreSQL', 'MongoDB', 'MySQL'];
     frameworks = ['Django', 'NodeJS', 'ReactJS'];
 }
