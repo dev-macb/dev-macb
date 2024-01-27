@@ -15,7 +15,7 @@ import SoftwareDeveloper from 'dev-macb';
 
 class Bio extends SoftwareDeveloper {
     name     = 'Miguel Alves';
-    title    = 'Desenvolvedor FullStack jr.';
+    title    = 'Desenvolvedor FullStack';
     location = 'Goiânia, Goiás, Brasil';
 }
 
