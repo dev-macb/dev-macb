@@ -1,4 +1,13 @@
-
+<div align="left">
+    <h3 style="margin: 0; font-size: 3em; font-weight: normal;">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Miguel Alves</h3>
+    <h4 style="margin: 0; font-size: 2em;">Desenvolvedor FullStack</h4>
+    <br><br>
+    <p style="width: 50%">
+        Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
+    </p>
+    <br><br>
+    
+</div>
 
 <div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
     <div style="gap: 50px; display: flex; flex-direction: column;">
@@ -22,11 +31,13 @@
 </div>
 
 
-<div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
-    <div align="center">
-        <h2 style="margin: 0; font-size: 3em;">Habilidades</h3>
-        <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
-    </div>
+<br><br><br>
+
+
+<div align="center">
+    <h3 style="margin: 0; font-size: 3em;">Habilidades</h3>
+    <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
+    <br>
     <div align="center">
         <a href="#"><img src="https://img.shields.io/badge/-C-001752?style=flat&logo=c&logoColor=F28C2F"></a>
         <a href="#"><img src="https://img.shields.io/badge/-C++-001752?style=flat&logo=cplusplus&logoColor=F28C2F"></a>
@@ -53,10 +64,13 @@
 </div>
 
 
+<br><br><br>
+
+
 <div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
     <div align="center">
-        <h2 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
-        <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
+        <h3 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
+        <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
     </div>
     <table border="0">
         <tr border="0">
@@ -76,11 +90,12 @@
 </div>
 
 
+<br><br><br>
 
 
 <div align="center">
-    <h2 style="margin: 0; font-size: 3em;">Sua jornada não deve terminar aqui</h3>
-    <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Siga-me nas redes sociais para ficar ligado em mais projetos</h4>
-    <br><br>
+    <h3 style="margin: 0; font-size: 3em;">Sua jornada não deve terminar aqui</h3>
+    <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Siga-me nas redes sociais para ficar ligado em mais projetos</h4>
+    <br>
     <a href="https://www.linkedin.com/in/dev-macb/">Seguir Já</a>
 </div>
