@@ -1,94 +1,91 @@
-<!-- Título -->
-<h1 align="center">🔷 Olá, eu sou o Miguel Alves 🔷</h1>
-
-<!-- Redes Sociais -->
-<p align="center">  
-  <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2850B8"></a>
-  <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2850B8"></a> 
-  <a title="Instagram do Miguel" href="https://www.instagram.com/miguel_acb9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=2850B8"></a>
-</p>
 
 
-<!-- Descrição(Código) -->
-```js
-import SoftwareDeveloper from 'dev-macb';
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
+    <div style="gap: 50px; display: flex; flex-direction: column;">
+    <div>   
+        <h3 style="margin: 0; font-size: 3em; font-weight: normal;">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Miguel Alves</h3>
+        <h4 style="margin: 0; font-size: 2em;">Desenvolvedor FullStack</h4>
+    </div>
+    <div>
+        <p style="width: 50%">
+            Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
+        </p>
+    </div>
+    <div style="gap: 40px; display: flex;">
+        <button style="height: 50px; padding: 0 40px; font-size: 1.2em; background-color: #F28C2F; border-radius: 10px; border: none; color: #FFF;">Explorar Repositórios</button>
+        <button style="height: 50px; padding: 0 40px; font-size: 1.2em; background-color: #0053A0; border-radius: 10px; border: none; color: #FFF;">Contato</button>
+    </div>
+    </div>
+    <div>
+        <svg width="270" height="310" viewBox="0 0 270 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M135 0L269.5 76.5L270 232L162 171L191 156L243 186V95L163 48V108L135 125V0Z" fill="#001752"/>
+            <path d="M27 95L135 155.706V279L55 232L80 216.5L108 232.706V171L54.5 139.706V169.046L27 185V95Z" fill="#001752"/>
+            <path d="M107 48V78L81.5 92.5L107 109L135 125L188.5 92.5L163 78V48L243 95L135 156L27 95L107 48Z" fill="#193B91"/>
+            <path d="M108 171V200L55 232L135 279L217 232L162 200V171L270 232L135.5 309.5L0 232L108 171Z" fill="#193B91"/>
+            <path d="M0 77L135 0V125L107 109V48L27 95V185L79.5 154.5L108 171L0 232V77Z" fill="#2850B8"/>
+            <path d="M135 155.833L243 95V186L216 170.5V143L162 171V233L190 216.5L217 232L135 279V155.833Z" fill="#2850B8"/>
+        </svg>
+    </div>
+</div>
 
-class Bio extends SoftwareDeveloper {
-    name     = 'Miguel Alves';
-    title    = 'Desenvolvedor FullStack';
-    location = 'Goiânia, Goiás, Brasil';
-}
 
-class Skills extends SoftwareDeveloper {
-    languages  = ['C', 'C++' 'Python', 'JavaScript/TypeScript'];
-    databases  = ['PostgreSQL', 'MongoDB', 'MySQL'];
-    frameworks = ['Django', 'NodeJS', 'ReactJS'];
-}
-```
+<div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
+    <header style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0; font-size: 3em;">Habilidades</h3>
+        <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
+    </header>
+    <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/-C-001752?style=flat&logo=c&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-C++-001752?style=flat&logo=cplusplus&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PHP-001752?style=flat&logo=php&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Python-001752?style=flat&logo=Python&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Django-001752?style=flat&logo=Django&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-JavaScript-001752?style=flat&logo=javascript&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-TypeScript-001752?style=flat&logo=typescript&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Nodejs-001752?style=flat&logo=Node.js&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-React-001752?style=flat&logo=react&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-HTML5-001752?style=flat&logo=html5&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-CSS3-001752?style=flat&logo=css3&logoColor=F28C2F"></a> 
+        <a href="#"><img src="https://img.shields.io/badge/SQL-001752?style=flat&logo=amazon-dynamodb&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-001752?style=flat&logo=postgresql&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-MySQL-001752?style=flat&logo=mysql&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-MongoDB-001752?style=flat&logo=mongodb&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Git-001752?style=flat&logo=git&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-GitHub-001752?style=flat&logo=github&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Figma-001752?style=flat&logo=figma&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Powershell-001752?style=flat&logo=powershell&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Bash-001752?style=flat&logo=gnu-bash&logoColor=F28C2F"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Markdown-001752?style=flat&logo=markdown&logoColor=F28C2F"></a>
+    </div>
+</div>
 
-<!-- Principais Linguagens -->
-<h2 align="center">🔷 Principais tecnologias 🔷</h2>     
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Powershell-%230D1117.svg?style=flat-square&logo=powershell&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=2850B8"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-%230D1117.svg?style=flat-square&logo=figma&logoColor=2850B8"></a>
-</p>
 
-<!-- Estatísticas do Github -->
-<h2 align="center">🔷 Estatísticas do Github 🔷</h2>                                                                                                                     
-<table border="0">
-    <tr border="0">
-        <td width="38%" align="center">
-            <img title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&theme=react&hide_border=true&bg_color=161B22&title_color=2850B8&text_color=A5D6F1&icon_color=F04A2F&langs_count=10&langs_count=10&locale=pt-br"/>
-        </td>
-        <td width="62%" align="center">
-            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=2850B8&sideLabels=2850B8&currStreakNum=F04A2F&sideNums=F04A2F&locale=pt-br" />
-            <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=2850B8&text_color=A5D6F1&icon_color=F04A2F&locale=pt-br"/>
-        </td>
-    </tr>
-</table>
-<i>
-    <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
-    meu código público consiste e não reflete o nível de experiência ou habilidade.
-</i>
+<div style="gap: 10px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
+    <header style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
+        <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
+    </header>
+    <div style="gap: 20px; display: flex; flex-direction: row;">
+        <img title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&theme=react&hide_border=true&bg_color=001752&title_color=F28C2F&text_color=A5D6F1&icon_color=F28C2F&langs_count=10&langs_count=10&locale=pt-br"/>
+        <div style="display: flex; flex-direction: column; justify-content: space-between;">
+            <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=001752&title_color=F28C2F&text_color=A5D6F1&icon_color=F28C2F&locale=pt-br"/>
+            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&hide_border=true&theme=react&background=001752&ring=A5D6F1&fire=F28C2F&dates=A5D6F1&currStreakLabel=F28C2F&sideLabels=F28C2F&currStreakNum=F28C2F&sideNums=F28C2F&locale=pt-br" />
+        </div>
+    </div>
+</div>
 
-<!-- Gráfico de Contribuição -->
-![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=dev-macb&bg_color=161B22&color=A5D6F1&line=FFFFFF&point=2850B8&hide_border=true&locale=pt-br)
 
-___
-<!-- Citação -->
-<br /><p align="center"><i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão."</i> - <b>Rafael Lain</b></p><br />
 
-___
-<!-- Animação da Cobra -->
-![Animação da Cobrinha](https://github.com/dev-macb/dev-macb/blob/output/github-contribution-grid-snake.svg)
-
-___
-<!-- Agradecimentos -->
-<h4 align="center">🔷 Obrigado! 🔷</h4>
-<p align="center">🇧🇷 🇧🇷 🇧🇷</p>
-<h6 align="center">MacB</h6>
-
-<!--
-PALETA DE CORES
-- Azul:     #A5D6F1
-- Cinza:    #161B22
-- Laranja:  #F7630C
-- Vermelho: #F04A2F
--->
+<section>
+    <div>
+        <div style="gap: 20px; display: flex; flex-direction: column; align-items: center; margin-top: 50px;">
+            <header style="display: flex; flex-direction: column; align-items: center;">
+                <h3 style="margin: 0; font-size: 3em;">Sua jornada não deve terminar aqui</h3>
+                <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Siga-me nas redes sociais para ficar ligado em mais projetos</h4>
+            </header>
+            <main>
+                <a href="https://www.linkedin.com/in/dev-macb/" style="height: 50px; display: flex; color: #F28C2F; padding: 0 40px; font-size: 1.2em; font-weight: bold; align-items: center; border-radius: 10px; font-weight: normal; border: 1px solid #F28C2F; background-color: transparent;">Seguir Já</a>
+            </main>
+        </div>
+    </div>
+</section>
