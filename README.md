@@ -17,23 +17,16 @@
     </div>
     </div>
     <div>
-        <svg width="270" height="310" viewBox="0 0 270 310" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M135 0L269.5 76.5L270 232L162 171L191 156L243 186V95L163 48V108L135 125V0Z" fill="#001752"/>
-            <path d="M27 95L135 155.706V279L55 232L80 216.5L108 232.706V171L54.5 139.706V169.046L27 185V95Z" fill="#001752"/>
-            <path d="M107 48V78L81.5 92.5L107 109L135 125L188.5 92.5L163 78V48L243 95L135 156L27 95L107 48Z" fill="#193B91"/>
-            <path d="M108 171V200L55 232L135 279L217 232L162 200V171L270 232L135.5 309.5L0 232L108 171Z" fill="#193B91"/>
-            <path d="M0 77L135 0V125L107 109V48L27 95V185L79.5 154.5L108 171L0 232V77Z" fill="#2850B8"/>
-            <path d="M135 155.833L243 95V186L216 170.5V143L162 171V233L190 216.5L217 232L135 279V155.833Z" fill="#2850B8"/>
-        </svg>
+        <img src="./assets/tesseract.svg" width="350" title="Cubo">
     </div>
 </div>
 
 
 <div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
-    <header style="display: flex; flex-direction: column; align-items: center;">
+    <div align="center">
         <h3 style="margin: 0; font-size: 3em;">Habilidades</h3>
         <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
-    </header>
+    </div>
     <div align="center">
         <a href="#"><img src="https://img.shields.io/badge/-C-001752?style=flat&logo=c&logoColor=F28C2F"></a>
         <a href="#"><img src="https://img.shields.io/badge/-C++-001752?style=flat&logo=cplusplus&logoColor=F28C2F"></a>
@@ -60,18 +53,26 @@
 </div>
 
 
-<div style="gap: 10px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
-    <header style="display: flex; flex-direction: column; align-items: center;">
+<div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
+    <div align="center">
         <h3 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
         <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
-    </header>
-    <div style="gap: 20px; display: flex; flex-direction: row;">
-        <img title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&theme=react&hide_border=true&bg_color=001752&title_color=F28C2F&text_color=A5D6F1&icon_color=F28C2F&langs_count=10&langs_count=10&locale=pt-br"/>
-        <div style="display: flex; flex-direction: column; justify-content: space-between;">
-            <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=001752&title_color=F28C2F&text_color=A5D6F1&icon_color=F28C2F&locale=pt-br"/>
-            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&hide_border=true&theme=react&background=001752&ring=A5D6F1&fire=F28C2F&dates=A5D6F1&currStreakLabel=F28C2F&sideLabels=F28C2F&currStreakNum=F28C2F&sideNums=F28C2F&locale=pt-br" />
-        </div>
     </div>
+    <table border="0">
+        <tr border="0">
+            <td width="38%" align="center">
+                <img title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&theme=react&hide_border=true&bg_color=161B22&title_color=2850B8&text_color=A5D6F1&icon_color=F04A2F&langs_count=10&langs_count=10&locale=pt-br"/>
+            </td>
+            <td width="62%" align="center">
+                <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=2850B8&sideLabels=2850B8&currStreakNum=F04A2F&sideNums=F04A2F&locale=pt-br" />
+                <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=2850B8&text_color=A5D6F1&icon_color=F04A2F&locale=pt-br"/>
+            </td>
+        </tr>
+    </table>
+    <i>
+        <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
+        meu código público consiste e não reflete o nível de experiência ou habilidade.
+    </i>
 </div>
 
 
