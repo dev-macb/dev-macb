@@ -17,15 +17,15 @@
     </div>
     </div>
     <div>
-        <img src="./assets/tesseract.svg" width="350" title="Cubo">
+        <img src="/assets/tesseract.svg" width="350" title="Cubo">
     </div>
 </div>
 
 
 <div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
     <div align="center">
-        <h3 style="margin: 0; font-size: 3em;">Habilidades</h3>
-        <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
+        <h2 style="margin: 0; font-size: 3em;">Habilidades</h3>
+        <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Ferramentas e tecnologias dominadas</h4>
     </div>
     <div align="center">
         <a href="#"><img src="https://img.shields.io/badge/-C-001752?style=flat&logo=c&logoColor=F28C2F"></a>
@@ -55,8 +55,8 @@
 
 <div style="gap: 20px; width: 100%; display: flex; align-items: center; flex-direction: column; margin-top: 50px;">
     <div align="center">
-        <h3 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
-        <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
+        <h2 style="margin: 0; font-size: 3em;">Estatísticas do Github</h3>
+        <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Contribuições e Atividades no GitHub</h4>
     </div>
     <table border="0">
         <tr border="0">
@@ -77,16 +77,10 @@
 
 
 
-<section>
-    <div>
-        <div style="gap: 20px; display: flex; flex-direction: column; align-items: center; margin-top: 50px;">
-            <header style="display: flex; flex-direction: column; align-items: center;">
-                <h3 style="margin: 0; font-size: 3em;">Sua jornada não deve terminar aqui</h3>
-                <h4 style="margin: 0; font-size: 1.5em; font-weight: normal;">Siga-me nas redes sociais para ficar ligado em mais projetos</h4>
-            </header>
-            <main>
-                <a href="https://www.linkedin.com/in/dev-macb/" style="height: 50px; display: flex; color: #F28C2F; padding: 0 40px; font-size: 1.2em; font-weight: bold; align-items: center; border-radius: 10px; font-weight: normal; border: 1px solid #F28C2F; background-color: transparent;">Seguir Já</a>
-            </main>
-        </div>
-    </div>
-</section>
+
+<div align="center">
+    <h2 style="margin: 0; font-size: 3em;">Sua jornada não deve terminar aqui</h3>
+    <h3 style="margin: 0; font-size: 1.5em; font-weight: normal;">Siga-me nas redes sociais para ficar ligado em mais projetos</h4>
+    <br><br>
+    <a href="https://www.linkedin.com/in/dev-macb/">Seguir Já</a>
+</div>
