@@ -1,16 +1,14 @@
-<img align="right" height="230em" src="https://github.com/dev-macb/dev-macb/blob/main/assets/tesseract.svg" />
-
-<h1 align="left" height="300em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Miguel Alves</h1>
-
-- Desenvolvedor FullStack Jr.
-- Cursando Sistemas de Informação na Universidade Federal de Goiás(UFG)
-- Goiânia, Goiás, Brasil
-
-
-<a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
-<a title="Telefone do Miguel" href="https://api.whatsapp.com/send/?phone=5562991416616" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-001752?style=for-the-badge&logo=whatsapp&logoColor=A1BDDE"></a>
-
-
+<div>
+    <h1 align="center">🔷 Olá, Eu sou Miguel Alves 🔷</h1>
+    <p>🧑‍💻 Desenvolvedor FullStack Jr.</p>
+    <p>📚 Cursando Sistemas de Informação na Universidade Federal de Goiás(UFG)</p>
+    <p>🌎 Goiânia, Goiás, Brasil</p>
+    <div align="center">
+        <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
+        <a title="Telefone do Miguel" href="https://api.whatsapp.com/send/?phone=5562991416616" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-001752?style=for-the-badge&logo=whatsapp&logoColor=A1BDDE"></a>
+    </div>
+</div>
+<br>
 
 ___
 
