@@ -3,8 +3,8 @@
 <h1 align="left" height="300em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Miguel Alves</h1>
 
 - Desenvolvedor FullStack Jr.
-- Estudande de Sistemas de Informação na UFG
-- Freelancer
+- Cursando Sistemas de Informação na Universidade Federal de Goiás(UFG)
+- Goiânia, Goiás, Brasil
 
 
 <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
@@ -15,6 +15,7 @@
 ___
 
 
+<br>
 <div align="center">
     <h3>🔷 Habilidades 🔷</h3>
     <p>Ferramentas e tecnologias dominadas</p>
@@ -58,19 +59,11 @@ ___
     <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&bg_color=001752&title_color=F1F1F1&text_color=A1BDDE&icon_color=F28C2F&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&locale=pt-br"/>
     <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&background=001752&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F1F1F1&sideLabels=F1F1F1&currStreakNum=F28C2F&sideNums=F28C2F&hide_border=true&locale=pt-br" />    
     <br><br>
-    <i align="center">
+    <i>
         <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
         meu código público consiste e não reflete o nível de experiência ou habilidade.
     </i>
-
-[![Gráfico de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=dev-macb&bg_color=001752&title_color=F1F1F1&color=A1BDDE&line=F1F1F1&point=F28C2F&hide_border=true&custom_title=Gráfico%20de%20Contribuições%20do%20Miguel%20Alves&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <!-- Gráfico de Contribuição -->
-
-
-
-<!-- Animação da Cobra -->
-![Animação da Cobrinha](https://github.com/dev-macb/dev-macb/blob/output/github-contribution-grid-snake.svg)
+    <br><br>
 </div>
 <br>
 
