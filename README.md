@@ -2,8 +2,9 @@
 
 <h1 align="left" height="300em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Miguel Alves</h1>
 
-- Desenvolvedor FullStack Jr.
-- Estudande de Sistemas de Informação na UFG
+- 🧑‍💻 Desenvolvedor FullStack Jr.
+- 📚 Estudande de Sistemas de Informação na UFG
+- 🌎 Goiânia, Goiás, Brasil
 
 
 <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
@@ -14,6 +15,7 @@
 ___
 
 
+<br>
 <div align="center">
     <h3>🔷 Habilidades 🔷</h3>
     <p>Ferramentas e tecnologias dominadas</p>
@@ -53,5 +55,29 @@ ___
     <img align="right" title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&bg_color=001752&title_color=F1F1F1&text_color=A1BDDE&langs_count=10&hide_border=true&&locale=pt-br"/>
     <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&bg_color=001752&title_color=F1F1F1&text_color=A1BDDE&icon_color=F28C2F&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&locale=pt-br"/>
     <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&background=001752&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F1F1F1&sideLabels=F1F1F1&currStreakNum=F28C2F&sideNums=F28C2F&hide_border=true&locale=pt-br" />    
+<<<<<<< HEAD
 </div>
 <br>
+=======
+    <br><br>
+    <i>
+        <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
+        meu código público consiste e não reflete o nível de experiência ou habilidade.
+    </i>
+    <br><br>
+</div>
+<br>
+
+
+---
+
+
+<br>
+<div align="center">
+    <h3>🔷 Sua jornada não deve terminar aqui 🔷</h3>
+    <p>Siga-me nas redes sociais para ficar ligado em mais projetos</p>
+    <br>
+    <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-001752?style=for-the-badge&logo=linkedin&logoColor=A1BDDE"></a>
+</div>
+<br>
+>>>>>>> 78e1b1014f7b81966c7b12bb005356eda1dd123f
