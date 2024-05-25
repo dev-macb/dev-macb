@@ -4,13 +4,12 @@
 
 - Desenvolvedor FullStack Jr.
 - Estudande de Sistemas de Informação na UFG
-- Freelancer
 
 
 <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
+<a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-001752?style=for-the-badge&logo=linkedin&logoColor=A1BDDE"></a>
 <a title="Telefone do Miguel" href="https://api.whatsapp.com/send/?phone=5562991416616" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-001752?style=for-the-badge&logo=whatsapp&logoColor=A1BDDE"></a>
-
-
+<br><br>
 
 ___
 
@@ -18,7 +17,6 @@ ___
 <div align="center">
     <h3>🔷 Habilidades 🔷</h3>
     <p>Ferramentas e tecnologias dominadas</p>
-    <br>
     <div align="center">
         <a href="#"><img src="https://img.shields.io/badge/-C-001752?style=for-the-badge&logo=c&logoColor=A1BDDE"></a>
         <a href="#"><img src="https://img.shields.io/badge/-C++-001752?style=for-the-badge&logo=cplusplus&logoColor=A1BDDE"></a>
@@ -43,46 +41,17 @@ ___
         <a href="#"><img src="https://img.shields.io/badge/Markdown-001752?style=for-the-badge&logo=markdown&logoColor=A1BDDE"></a>
     </div>
 </div>
-<br>
+<br><br>
 
 
 ---
 
 
-<br>
 <div align="center">
     <h3>🔷 Estatísticas do Github 🔷</h3>
     <p>Contribuições e Atividades no GitHub</p>
-    <br>
     <img align="right" title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-macb&bg_color=001752&title_color=F1F1F1&text_color=A1BDDE&langs_count=10&hide_border=true&&locale=pt-br"/>
     <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=dev-macb&bg_color=001752&title_color=F1F1F1&text_color=A1BDDE&icon_color=F28C2F&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&locale=pt-br"/>
     <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-macb&background=001752&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F1F1F1&sideLabels=F1F1F1&currStreakNum=F28C2F&sideNums=F28C2F&hide_border=true&locale=pt-br" />    
-    <br><br>
-    <i align="center">
-        <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
-        meu código público consiste e não reflete o nível de experiência ou habilidade.
-    </i>
-
-[![Gráfico de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=dev-macb&bg_color=001752&title_color=F1F1F1&color=A1BDDE&line=F1F1F1&point=F28C2F&hide_border=true&custom_title=Gráfico%20de%20Contribuições%20do%20Miguel%20Alves&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <!-- Gráfico de Contribuição -->
-
-
-
-<!-- Animação da Cobra -->
-![Animação da Cobrinha](https://github.com/dev-macb/dev-macb/blob/output/github-contribution-grid-snake.svg)
-</div>
-<br>
-
-
----
-
-
-<br>
-<div align="center">
-    <h3>🔷 Sua jornada não deve terminar aqui 🔷</h3>
-    <p>Siga-me nas redes sociais para ficar ligado em mais projetos</p>
-    <br>
-    <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-001752?style=for-the-badge&logo=linkedin&logoColor=A1BDDE"></a>
 </div>
 <br>
