@@ -9,7 +9,6 @@
 
 <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-001752?style=for-the-badge&logo=gmail&logoColor=A1BDDE"></a>
 <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-001752?style=for-the-badge&logo=linkedin&logoColor=A1BDDE"></a>
-<a title="Telefone do Miguel" href="https://api.whatsapp.com/send/?phone=5562991416616" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-001752?style=for-the-badge&logo=whatsapp&logoColor=A1BDDE"></a>
 <br><br>
 
 ___
